@@ -1,0 +1,13 @@
+{
+  "id" : "https://pieckh.github.io/Matz/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in pieckh/Matz project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://pieckh.github.io/Matz/manifests/manifest_matz.json",
+    "label" : "Sermones et varia a Nicolao Matz collecta"
+  } ]
+}
